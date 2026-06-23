@@ -24,8 +24,8 @@ using Power BI and Excel.
 - Excel
 
 ## 📸 Dashboard Screenshots
-![Supply_Chain_Dashboard](Descriptive Analysis.png)
-![Supply_Chain_Dashboard](Diagnostic Analysis.png)
+![Supply_Chain_Dashboard](Descriptive_Analysis.png)
+![Supply_Chain_Dashboard](Diagnostic_Analysis.png)
 
 ## 📁 Files
 - Supply_Chain_Analysis.pbix — Power BI file
