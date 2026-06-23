@@ -25,6 +25,7 @@ using Power BI and Excel.
 
 ## 📸 Dashboard Screenshots
 ![Supply_Chain_Dashboard](Descriptive_Analysis.png)
+
 ![Supply_Chain_Dashboard](Diagnostic_Analysis.png)
 
 ## 📁 Files
